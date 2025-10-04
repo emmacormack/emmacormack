@@ -1,4 +1,4 @@
-## Emma Cormack
+# Emma Cormack
 
 👩‍🎓 I'm a recent graduate from the **University of Glasgow**, where I studied MA Social and Public Policy with Honours <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c0d8f9d8-164f-47b9-8231-7d44bdb26477" />
 
