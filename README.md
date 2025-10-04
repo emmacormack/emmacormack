@@ -8,14 +8,14 @@
 
 
 🌱 I'm currently learning: R, SQL, Excel, Tableau...
-Check out my recent learning in Datacamp. https://www.datacamp.com/portfolio/2550840c
+Check out my recent learning in [Datacamp](https://www.datacamp.com/portfolio/2550840c)
 
 
 ### Work Experience with Data
 
-- **Business Data Analysis Intern** with Glasgow Eco Trust
+- **Business Data Analysis Intern** with [Glasgow Eco Trust](https://www.glasgowecotrust.org.uk/)
 
-### Qualifications / Achievements
+### Qualifications
 
 - First Class MA Social and Public Policy with Honours from the University of Glasgow (2025)
 
