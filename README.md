@@ -1,10 +1,10 @@
 # Emma Cormack
 
-👩‍🎓 I'm a recent graduate from the **University of Glasgow**, where I studied Social and Public Policy.
+👩‍🎓 Recent graduate from the **University of Glasgow**, where I studied Social and Public Policy.
 
-🩺 I'm really interested in **health policy and research**, and would like to work with health data for NHS Scotland.
+🩺 Interested in **health policy and research**, and would like to work with health data for NHS Scotland.
 
-🌱 I'm currently learning: R, SQL, Excel, Tableau...
+🌱 Currently learning: R, SQL, Excel, Tableau...
 Check out my recent learning in [Datacamp](https://www.datacamp.com/portfolio/2550840c)
 
 ### Relevant Work Experience
