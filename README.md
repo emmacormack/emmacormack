@@ -1,7 +1,6 @@
 # Emma Cormack
 
-👩‍🎓 I'm a recent graduate from the **University of Glasgow**, where I studied MA Social and Public Policy with Honours.
-
+👩‍🎓 I'm a recent graduate from the **University of Glasgow**, where I studied Social and Public Policy.
 
 🩺 I'm really interested in **health policy and research**, and would like to work with health data for NHS Scotland.
 
