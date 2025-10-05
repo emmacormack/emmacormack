@@ -15,5 +15,5 @@ Check out my recent learning in [Datacamp](https://www.datacamp.com/portfolio/25
 
 ### Qualifications
 
-- First Class MA Social and Public Policy with Honours from the University of Glasgow (2025)
+- First Class MA (SocSci) **Social and Public Policy with Honours** from the University of Glasgow (2025)
 
